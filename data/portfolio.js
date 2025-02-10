@@ -47,7 +47,7 @@ const projects = [
     livePreview: 'https://github.com/GautamDasUNIAD/WDCproject',
   },
   {
-    thumbnail: '/images/shopdemo.gif',
+    thumbnail: 'images/shopdemo.gif',
     name: 'Store Management Simulator',
     description: [
       'A terminal-based application for managing supermarket operations using C++ and Object Oriented Programming (OOP) principles.',
