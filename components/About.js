@@ -26,7 +26,7 @@ const About = () => {
 
           {role && (
             <h1 className='about__role animate__animated animate__fadeInUp animate__delay-3s'>
-              I&apos;m a {role}
+              I&apos;m an {role}
               {company && (
                 <span>
                   {' '}

@@ -1,13 +1,13 @@
 const Footer = () => (
   <footer className='footer'>
-    <a
+    {/* <a
       href='https://github.com/magic-ike/leanfolio'
       target='_blank'
       rel='noreferrer'
       className='link footer__link'
     >
-      Created by Ike Ofoegbu
-    </a>
+      Created by Glebe Zhivoglyadov
+    </a> */}
   </footer>
 )
 

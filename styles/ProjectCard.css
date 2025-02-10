@@ -14,7 +14,7 @@
 
 .project__thumbnail {
   width: 100%;
-  aspect-ratio: 402 / 223;
+  /* aspect-ratio: 350 / 223; */
   border-radius: 0.5rem;
   object-fit: cover;
 }
