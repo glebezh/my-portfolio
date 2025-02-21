@@ -28,16 +28,16 @@ const projects = [
   // each element in each `description` array will be treated as a separate paragraph
   {
     thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 4',
+    name: 'Bandle Game',
     description: [
-      'TBA',
+      'Currently working on recreating the popular song guessing game, Bandle. Front-end is being built using TypeScript, React and Vite. Backend is being built using Python FastAPI. Track separation is being performed by the Demucs Music Source Separation AI Model.',
     ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://example.com',
+    stack: ['TypeScript', 'React', 'FastAPI', 'Demucs', 'Vite'],
+    sourceCode: 'https://github.com/glebezh/Bandle-Game',
+    livePreview: 'https://bandle-game.vercel.app/',
   },
   {
-    thumbnail: 'images/BicepCurlDemo.gif',
+    thumbnail: 'images/WinDemo.mp4',
     name: 'AI-Powered Fitness Trainer',
     description: [
       'An AI-powered fitness trainer built using Streamlit, MediaPipe Pose Detection, and OpenCV. The application can track and analyze exercise form in real-time for various workouts and can also count reps and sets.',
@@ -63,8 +63,8 @@ const projects = [
       'A terminal-based application for managing supermarket operations using C++ and Object Oriented Programming (OOP) principles.',
     ],
     stack: ['C++', 'OOP', 'Terminal-Based'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://example.com',
+    sourceCode: 'https://github.com/glebezh/Store-Management-Simulator-OOP',
+    livePreview: 'https://github.com/glebezh/Store-Management-Simulator-OOP',
   },
 ]
 
