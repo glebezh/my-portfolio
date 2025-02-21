@@ -27,6 +27,16 @@ const projects = [
   // if the array is left empty, the "Projects" section won't render
   // each element in each `description` array will be treated as a separate paragraph
   {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 4',
+    description: [
+      'TBA',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://example.com',
+  },
+  {
     thumbnail: 'images/BicepCurlDemo.gif',
     name: 'AI-Powered Fitness Trainer',
     description: [
@@ -53,16 +63,6 @@ const projects = [
       'A terminal-based application for managing supermarket operations using C++ and Object Oriented Programming (OOP) principles.',
     ],
     stack: ['C++', 'OOP', 'Terminal-Based'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://example.com',
-  },
-  {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 4',
-    description: [
-      'TBA',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://example.com',
   },
