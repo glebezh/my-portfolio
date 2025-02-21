@@ -27,7 +27,7 @@ const projects = [
   // if the array is left empty, the "Projects" section won't render
   // each element in each `description` array will be treated as a separate paragraph
   {
-    thumbnail: 'images/placeholder-image.jpeg',
+    thumbnail: 'images/WinDemo.gif',
     name: 'Bandle Game',
     description: [
       'Currently working on recreating the popular song guessing game, Bandle. Front-end is being built using TypeScript, React and Vite. Backend is being built using Python FastAPI. Track separation is being performed by the Demucs Music Source Separation AI Model.',
@@ -37,7 +37,7 @@ const projects = [
     livePreview: 'https://bandle-game.vercel.app/',
   },
   {
-    thumbnail: 'images/WinDemo.mp4',
+    thumbnail: 'images/BicepCurlDemo.gif',
     name: 'AI-Powered Fitness Trainer',
     description: [
       'An AI-powered fitness trainer built using Streamlit, MediaPipe Pose Detection, and OpenCV. The application can track and analyze exercise form in real-time for various workouts and can also count reps and sets.',
@@ -73,11 +73,14 @@ const skills = [
   // if the array is left empty, the "Skills" section won't render
   'C++',
   'Python',
+  'TypeScript',
+  'JavaScript',
   'HTML',
   'CSS',
   'Git',
   'SQL',
   'Matlab',
+  ''
 ]
 
 const contact = {
