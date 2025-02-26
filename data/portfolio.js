@@ -13,7 +13,7 @@ const about = {
   role: 'Aspiring Software Engineer',
   // company: 'The University of Adelaide',
   description: [
-    'Hi! I’m Glebe, a third-year student at the University of Adelaide, studying a bachelor of Mathematical and Computer Sciences with a major in Artificial Intelligence. I’m passionate about developing new and exciting software solutions and tackling challenging problems. My interests include cybersecurity and artificial intelligence, and I’m dedicated to honing in on and developing my skills as a coder.',
+    'Hi! I’m Glebe, a third-year student at the University of Adelaide, studying a Bachelor of Mathematical and Computer Sciences with a major in Artificial Intelligence. I’m passionate about developing new and exciting software solutions and tackling challenging problems. My interests include cybersecurity and artificial intelligence, and I’m dedicated to honing in on and developing my skills as a software engineer.',
   ],
   resume: '/Glebe-Resume.pdf',
   social: {
@@ -79,8 +79,7 @@ const skills = [
   'CSS',
   'Git',
   'SQL',
-  'Matlab',
-  ''
+  'MATLAB',
 ]
 
 const contact = {
