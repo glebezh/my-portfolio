@@ -27,10 +27,10 @@ const projects = [
   // if the array is left empty, the "Projects" section won't render
   // each element in each `description` array will be treated as a separate paragraph
   {
-    thumbnail: 'images/WinDemo.gif',
+    thumbnail: 'images/WinDemoFinal.gif',
     name: 'Bandle Game',
     description: [
-      'Currently working on recreating the popular song guessing game, Bandle. Front-end is being built using TypeScript, React and Vite. Backend is being built using Python FastAPI. Track separation is being performed by the Demucs Music Source Separation AI Model.',
+      'Currently working on recreating the popular song guessing game, Bandle. Front-end is being built using TypeScript, React and Vite. Back-end is being built using Python FastAPI. Track separation is being performed by the Demucs Music Source Separation AI Model.',
     ],
     stack: ['TypeScript', 'React', 'FastAPI', 'Demucs', 'Vite'],
     sourceCode: 'https://github.com/glebezh/Bandle-Game',
