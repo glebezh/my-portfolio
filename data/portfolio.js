@@ -1,7 +1,7 @@
 const header = {
   // the `wordmark` property is optional - it can be left empty or deleted
   // if so, it will be overwritten by your full name, or a default wordmark if the full name is invalid
-  wordmark: '',
+  wordmark: ' ',
 }
 
 const about = {
@@ -27,7 +27,7 @@ const projects = [
   // if the array is left empty, the "Projects" section won't render
   // each element in each `description` array will be treated as a separate paragraph
   {
-    thumbnail: 'images/WinDemo.gif',
+    thumbnail: 'images/winDemo2.gif',
     name: 'Bandle Game',
     description: [
       'Currently working on recreating the popular song guessing game, Bandle. Front-end is being built using TypeScript, React and Vite. Backend is being built using Python FastAPI. Track separation is being performed by the Demucs Music Source Separation AI Model.',
