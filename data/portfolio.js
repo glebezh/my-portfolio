@@ -30,7 +30,7 @@ const projects = [
     thumbnail: 'images/Winning2.gif',
     name: 'Bandle Game',
     description: [
-      'Currently working on recreating the popular song guessing game, Bandle. Front-end is being built using TypeScript, React and Vite. Back-end is being built using Python FastAPI. Track separation is being performed by the Demucs Music Source Separation AI Model.',
+      'Recreated the popular song guessing game, Bandle. Front-end is built using TypeScript, React and Vite. Back-end is built using Python FastAPI. Track separation is performed by the Demucs Music Source Separation AI Model.',
     ],
     stack: ['TypeScript', 'React', 'FastAPI', 'Demucs', 'Vite'],
     sourceCode: 'https://github.com/glebezh/Bandle-Game',
